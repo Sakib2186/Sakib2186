@@ -8,10 +8,11 @@ My main tech stack is python, but again as a software engineer I can migrate to 
 (If I couldn’t, four years of engineering would feel like a bug, not a feature :alien:)
 
 I do try to solve [LeetCode]([https://www.example.com](https://leetcode.com/u/Sakib_Sami/)) problems everyday.
+I have got a bunch of pinned projects.
 
 Few Fun Facts about me:
-  - My life is boring :sob:
-  - Never ever dated :sob: :sob:
+  - My life is boring :disappointed:
+  - Never ever dated :sob:
   - I love cats :cat:, but my mom won't let me have one.
   - **Hobbies**: I don't know.
 
