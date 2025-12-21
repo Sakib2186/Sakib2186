@@ -1,6 +1,6 @@
 ## Hi stranger 👋
 
-I am Sakib, a dedicated software engineer, who is always on the hunt to explore new alternatives.
+I am Sakib, a dedicated Software Engineer, who is always on the hunt to explore new alternatives.
 
 I guess I do have an OCD to not stop thinking until and unless I come up with a solution for a given problem :dizzy_face:.
 
@@ -8,7 +8,7 @@ My main tech stack is python, but again as a software engineer I can migrate to 
 (If I couldn’t, four years of engineering would feel like a bug, not a feature :alien:)
 
 I do try to solve [LeetCode]([https://www.example.com](https://leetcode.com/u/Sakib_Sami/)) problems everyday.
-I have got a bunch of pinned projects.
+Do check out some of the pinned projects, both personal and collaborative.
 
 Few Fun Facts about me:
   - My life is boring :disappointed:
