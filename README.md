@@ -4,8 +4,11 @@ I am Sakib, a dedicated Software Engineer, who is always on the hunt to explore 
 
 I guess I do have an OCD to not stop thinking until and unless I come up with a solution for a given problem :dizzy_face:.
 
-My main tech stack is python, but again as a software engineer I can migrate to any other language as required.
+My main tech stack is Python, but again as a software engineer I can migrate to any other language as required.
 (If I couldn’t, four years of engineering would feel like a bug, not a feature :alien:)
+
+Currently, I am serving a software engineer at TCL Informatix, a sister concern of Tanvir Constructions Ltd, which happens to be 
+a startup where we are making the roots strong with our greatest effort :muscle:.
 
 I do try to solve [LeetCode]([https://www.example.com](https://leetcode.com/u/Sakib_Sami/)) problems everyday.
 Do check out some of the pinned projects, both personal and collaborative.
